@@ -1,4 +1,4 @@
-# 🚀 Docker Experiment 11: Titanic Survival Predictor — Containerized Streamlit App 🚢
+# 🚀 Docker Experiment 10: Titanic Survival Predictor — Containerized Streamlit App 🚢
 
 ---
 

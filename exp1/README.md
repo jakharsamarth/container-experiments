@@ -39,7 +39,7 @@ Follow these steps to clone, build, and run the application:
 ### Step 1: Clone the Repository
 
 ```bash
-git clone https://github.com/BhavyaDhimxn/container-experiments.git
+git clone https://github.com/jakharsamarth/container-experiments.git
 cd container-experiments
 ```
 
